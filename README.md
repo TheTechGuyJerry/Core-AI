@@ -62,3 +62,5 @@ You can host this application on any static site hosting provider:
 ## 📝 License
 
 This project is licensed under the Apache-2.0 License.
+
+omo × 1000
